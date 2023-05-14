@@ -1,0 +1,14 @@
+*body{
+    margin: 0px;
+    box-sizing: 0px;
+}
+
+.body{
+    background-color: red;
+}
+
+@media  and screen and (max-width:900px) {
+    body{
+        background-color: red;
+    }
+}
